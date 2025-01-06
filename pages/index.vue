@@ -75,7 +75,74 @@
                 </div>
             </div>
         </div>
+       
+
       </section>
+      <section class="lg:p-32">
+        <p class="text-center text-[13px]  font-bold m-5 lg:text-[25px]">আমাদের পণ্য নিয়ে গ্রাহকদের অভিজ্ঞতা</p>
+
+        <div class="grid grid-cols-1 gap-1 lg:grid-cols-2 pr-20 pl-20 pt-10 ">
+            <div class="bg-[#1B4B36] rounded-md ">
+                <h4 class="text-white pt-3 pl-5 lg:text-[30px] lg:font-bold">সন্তুষ্ট গ্রাহক</h4>
+                <h5 class="text-right pr-5 text-[30px] text-[600] font-bold text-[#EBFF3D] lg:text-[40px]">৩,০০০+</h5>
+                <hr class="mt-9">
+                <p class="text-[10px] text-center lg:text-[15px] lg:font-bold ">৫০০০ পণ্যের বিক্রি আমাদের জনপ্রিয়তা প্রমাণ করে।</p>
+            </div>
+            <div class="bg-[#1B4B36] rounded-md">
+                <h4 class="text-white pt-3 lg:text-[30px] pl-5">পুনঃক্রয়কারী</h4>
+                <h5 class="text-right pr-5 text-[30px] text-[600] font-bold text-[#EBFF3D] lg:text-[40px]">৪০০+</h5>
+                <hr class="mt-9">
+                <p class="text-[10px] text-center lg:text-[15px] lg:font-bold">পুনঃক্রয় করে আমাদের গুণমান নিশ্চিত করে।</p>
+            </div>
+            <div class="bg-[#1B4B36] rounded-md">
+                <h4 class="text-white pt-3 pl-5 lg:text-[30px]">পণ্য বিক্রি</h4>
+                <h5 class="text-right pr-5 text-[30px] text-[600] font-bold text-[#EBFF3D] lg:text-[40px]">৫০০০+</h5>
+                <hr class="mt-9">
+                <p class="text-[10px] text-center lg:text-[15px] lg:font-bold">৫০০০ পণ্যের বিক্রি আমাদের জনপ্রিয়তা প্রমাণ করে।</p>
+            </div>
+            <div class="bg-[#1B4B36] rounded-md">
+                <h4 class="text-white pt-3 pl-5 lg:text-[30px]">গ্রাহক সন্তুষ্ট</h4>
+                <h5 class="text-right pr-5 text-[30px] text-[600] font-bold text-[#EBFF3D] lg:text-[40px]">৯৫%</h5>
+                <hr class="mt-9">
+                <p class="text-[10px] text-center lg:text-[15px] lg:font-bold">৯৫% গ্রাহক আমাদের সেবা ও পণ্যে সন্তুষ্ট।</p>
+            </div>
+        </div>
+
+        <!-- <button class="flex mx-auto rounded-full mt-5  bg-[#EBFF3D]">
+            
+            <p class="text-[#1B4B36] w-60 text-center">অর্ডার করতে ক্লিক করুন</p>
+            <img class="h-5 w-5  " src="/assets/Images/Vector2.png" alt="" srcset="">
+         
+     </button> -->
+
+     <button class="flex lg:w-1/3 lg:h-14 lg:flex lg:justify-center lg:item-center mt-10  bg-[#EBFF3D] h-auto w-60 justify-center justify-evenly  rounded-full mx-auto" >
+                    <p class="text-[17px] lg:text-[20px] lg:text-center lg:font-bold text-[#1B4B36]" >অর্ডার করতে ক্লিক করুন</p>
+                    <img class="w-7 h-7 lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector2.png" alt="" srcset="">
+                </button>
+
+                
+      </section>
+      <footer class="flex items-center justify-center lg:justify-evenly flex-col bg-black lg:bg-black p-5">
+  <div class="content grid grid-cols-1 lg:flex  lg:justify-evenly gap-5">
+    <div class="number text-center lg:text-left">
+      <p class="text-white">+880 123 456 790</p>
+    </div>
+    <div class="logo text-center lg:text-left">
+      <img class="w-14" src="/assets/Images/Group 427322488.png" alt="Logo" srcset="">
+    </div>
+    <div class="last-content text-center lg:text-left">
+      <img class="w-24" src="/assets/Images/Group 427322604.png" alt="" srcset="">
+    </div>
+    
+  </div>
+  <p class="text-white text-center">"© 2024 All Rights Reserved by BDFunnelBuilder. Unauthorized use prohibited."</p>
+</footer>
+
+
+
+
+
+    
 
     </div>
   </template>
