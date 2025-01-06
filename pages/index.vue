@@ -7,25 +7,75 @@
                 <img class="mx-auto h-10 mb-2  " src="/assets/Images/Group 427322488.png" alt="" srcset="">
             
                 
-            <div class="text-center text-[#1B4B36] font-bold text-[15px] m-5">
+            <div class="text-center lg:text-4xl lg:mb-10 text-[#1B4B36] font-bold text-[15px] m-5">
                 <h2 >স্বাস্থ্য, ফিটনেস এবং প্রযুক্তি সবকিছু একসাথে!</h2>
                 <h2 >"আপনার স্টাইল, আপনার স্মার্টওয়াচ।"</h2>
+             <!-- <p class="text-center m-3 lg:m-10"><span class="bg-[#EBFF3D]  p-1 w-15 rounded-sm">আপনার জীবনকে আরও স্মার্ট করুন।</span></p> -->
+             <div class="mx-auto w-72 text-[15px] m-3 h-auto lg:m-10 lg:w-1/3   lg:mx-auto  bg-[#EBFF3D] rounded-sm "><p >আপনার জীবনকে আরও স্মার্ট করুন।</p></div>
             </div>
-            
-                   
-                    <p class="text-center"><span class="bg-[#EBFF3D] p-2 w-15 rounded-sm">আপনার জীবনকে আরও স্মার্ট করুন।</span></p>
-                   
-            
-                <div >
-                    <p>আপনার জীবনকে আরও স্মার্ট করুন।</p>
-                </div>
-                <!-- <img class="header-img" src="/Images/Group 427322487.png" alt="" srcset=""> -->
-                <div >
-                    <p>অর্ডার করতে ক্লিক করুন</p>
-                    <!-- <img src="/Images/Vector.png" alt="" srcset=""> -->
-                 </div>
+                <img class="fluid p-6 mx-auto" src="/assets/Images/Group 427322487.png" alt="" srcset="">
+                <button class="flex lg:w-1/3 lg:h-16  lg:justify-center  bg-[#1B4B36] h-auto w-60 justify-center justify-evenly  rounded-full mx-auto" >
+                    <p class="text-[17px] lg:text-[28px] lg:text-center lg:font-bold text-[#EBFF3D]" >অর্ডার করতে ক্লিক করুন</p>
+                    <img class="w-7 h-7 lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector.png" alt="" srcset="">
+                </button>
         </div>
     </header>
+    <section class="bg-[#FAFFCE] p-16 ">
+        <div class="text-[#1B4B36] mb-7 text-[19px] font-bold lg:mb-5">
+            <h3>স্মার্টওয়াচের একাধিক ফিচার </h3>
+        <h3 >এক নজরে</h3>
+        </div>
+
+        <div class="grid grid-cols-1 gap-3 lg:grid-cols-3 lg:p-14" >
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]" >স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
+                <p class="pt-5" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
+                    রক্তের অক্সিজেন পর্যবেক্ষণ: SpO2 ট্র্যাকিং দিয়ে স্বাস্থ্য সম্পর্কে সচেতন থাকুন।
+                    স্লিপ ট্র্যাকিং: গভীর ও হালকা ঘুমের স্তর বিশ্লেষণ করে সঠিক পরামর্শ।</p>
+                </div>
+            </div>
+            
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]">স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
+                <p class="pt-5" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
+                    রক্তের অক্সিজেন পর্যবেক্ষণ: SpO2 ট্র্যাকিং দিয়ে স্বাস্থ্য সম্পর্কে সচেতন থাকুন।
+                    স্লিপ ট্র্যাকিং: গভীর ও হালকা ঘুমের স্তর বিশ্লেষণ করে সঠিক পরামর্শ।</p> 
+                </div>
+            </div>
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]">ফিটনেস ট্র্যাকিং</h4>
+                <p class="pt-5">স্পোর্টস মোড: বিভিন্ন ধরনের স্পোর্টস অ্যাক্টিভিটির জন্য ১০+ মোড।
+                    ক্যালোরি বার্ন কাউন্টার: আপনার ব্যায়ামের সময় ক্যালোরি খরচ নির্ধারণ করুন।
+                    স্টেপ ট্র্যাকার: প্রতিদিনের পদক্ষেপ হিসেব করুন।</p>
+                </div>
+            </div>
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]">দীর্ঘস্থায়ী ব্যাটারি লাইফ</h4>
+                <p class="pt-5 pb-16">একবার চার্জে ৭+ দিন ব্যবহারের সুবিধা।
+                    দ্রুত চার্জিং প্রযুক্তি।</p>
+                </div>
+            </div>
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]">স্মার্ট নোটিফিকেশন</h4>
+                <p class="pt-5 pb-10">কল, মেসেজ, এবং অ্যাপ নোটিফিকেশন সরাসরি আপনার হাতে।
+                    গুরুত্বপূর্ণ আপডেট কখনোই মিস করবেন না।</p>
+                </div>
+            </div>
+            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
+                <div class="p-5">
+                    <h4 class="text-[#1B4B36] font-bold text-[18px]">মিউজিক এবং ক্যামেরা
+                    নিয়ন্ত্রণ</h4>
+                <p class="pt-5">মিউজিক চালানো বা ক্যামেরা ক্লিক করুন আপনার স্মার্টওয়াচ থেকে।
+                    সহজ এবং সাবলীল ব্যবহারের সুবিধা।</p>
+                </div>
+            </div>
+        </div>
+      </section>
 
     </div>
   </template>
