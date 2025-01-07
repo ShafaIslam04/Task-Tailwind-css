@@ -4,19 +4,19 @@
       <header class="my-8 ">
         <div class="header">
             
-                <img class="mx-auto h-10 mb-2  " src="/assets/Images/Group 427322488.png" alt="" srcset="">
+                <img class="mx-auto h-10 mb-2 md:h-16    " src="/assets/Images/Group 427322488.png" alt="" srcset="">
             
                 
-            <div class="text-center lg:text-4xl lg:mb-10 text-[#1B4B36] font-bold text-[15px] m-5">
+            <div class="text-center md:text-2xl lg:text-4xl lg:mb-10 text-[#1B4B36] font-bold text-[15px] m-5">
                 <h2 >স্বাস্থ্য, ফিটনেস এবং প্রযুক্তি সবকিছু একসাথে!</h2>
                 <h2 >"আপনার স্টাইল, আপনার স্মার্টওয়াচ।"</h2>
              <!-- <p class="text-center m-3 lg:m-10"><span class="bg-[#EBFF3D]  p-1 w-15 rounded-sm">আপনার জীবনকে আরও স্মার্ট করুন।</span></p> -->
-             <div class="mx-auto w-72 text-[15px] m-3 h-auto lg:m-10 lg:w-1/3   lg:mx-auto  bg-[#EBFF3D] rounded-sm "><p >আপনার জীবনকে আরও স্মার্ট করুন।</p></div>
+             <div class="mx-auto w-72 md:w-80 text-[15px] lg:hover:text-[#EBFF3D] hover:text-[#EBFF3D] m-3 h-auto lg:m-10 lg:w-1/3   lg:mx-auto  bg-[#EBFF3D] rounded-sm "><p >আপনার জীবনকে আরও স্মার্ট করুন।</p></div>
             </div>
                 <img class="fluid p-6 mx-auto" src="/assets/Images/Group 427322487.png" alt="" srcset="">
-                <button class="flex lg:w-1/3 lg:h-16  lg:justify-center  bg-[#1B4B36] h-auto w-60 justify-center justify-evenly  rounded-full mx-auto" >
-                    <p class="text-[17px] lg:text-[28px] lg:text-center lg:font-bold text-[#EBFF3D]" >অর্ডার করতে ক্লিক করুন</p>
-                    <img class="w-7 h-7 lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector.png" alt="" srcset="">
+                <button class="flex lg:w-1/3 lg:h-16  lg:justify-center  bg-[#1B4B36] h-auto w-60 md:w-72 md:h-14 justify-center  rounded-full mx-auto" >
+                    <p class="text-[17px] md:text-center md:p-4  lg:text-[28px] lg:text-center lg:font-bold text-[#EBFF3D]" >অর্ডার করতে ক্লিক করুন</p>
+                    <img class="w-7 h-7 md:mt-4 ml-1  lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector.png" alt="" srcset="">
                 </button>
         </div>
     </header>
@@ -26,62 +26,67 @@
         <h3 >এক নজরে</h3>
         </div>
 
-        <div class="grid grid-cols-1 gap-3 lg:grid-cols-3 lg:p-14" >
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]" >স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
-                <p class="pt-5" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
+        <div class=" grid grid-cols-1 md:grid-cols-2  gap-3 lg:grid-cols-3 lg:p-14" >
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
+                <p class="pt-5 group-hover:text-white" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
                     রক্তের অক্সিজেন পর্যবেক্ষণ: SpO2 ট্র্যাকিং দিয়ে স্বাস্থ্য সম্পর্কে সচেতন থাকুন।
                     স্লিপ ট্র্যাকিং: গভীর ও হালকা ঘুমের স্তর বিশ্লেষণ করে সঠিক পরামর্শ।</p>
                 </div>
             </div>
             
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]">স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
-                <p class="pt-5" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
-                    রক্তের অক্সিজেন পর্যবেক্ষণ: SpO2 ট্র্যাকিং দিয়ে স্বাস্থ্য সম্পর্কে সচেতন থাকুন।
-                    স্লিপ ট্র্যাকিং: গভীর ও হালকা ঘুমের স্তর বিশ্লেষণ করে সঠিক পরামর্শ।</p> 
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >মিউজিক এবং ক্যামেরা
+                        নিয়ন্ত্রণ</h4>
+                <p class="pt-5 group-hover:text-white" >মিউজিক চালানো বা ক্যামেরা ক্লিক করুন আপনার স্মার্টওয়াচ থেকে।
+                    সহজ এবং সাবলীল ব্যবহারের সুবিধা।</p>
                 </div>
             </div>
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]">ফিটনেস ট্র্যাকিং</h4>
-                <p class="pt-5">স্পোর্টস মোড: বিভিন্ন ধরনের স্পোর্টস অ্যাক্টিভিটির জন্য ১০+ মোড।
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >স্বাস্থ্য পর্যবেক্ষণ সুবিধা</h4>
+                <p class="pt-5 group-hover:text-white" >হার্ট রেট মনিটর: দিনজুড়ে আপনার হার্টের অবস্থার নজর রাখুন।
+                    রক্তের অক্সিজেন পর্যবেক্ষণ: SpO2 ট্র্যাকিং দিয়ে স্বাস্থ্য সম্পর্কে সচেতন থাকুন।
+                    স্লিপ ট্র্যাকিং: গভীর ও হালকা ঘুমের স্তর বিশ্লেষণ করে সঠিক পরামর্শ।</p>
+                </div>
+            </div>
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >ফিটনেস ট্র্যাকিং</h4>
+                <p class="pt-5 group-hover:text-white" >স্পোর্টস মোড: বিভিন্ন ধরনের স্পোর্টস অ্যাক্টিভিটির জন্য ১০+ মোড।
                     ক্যালোরি বার্ন কাউন্টার: আপনার ব্যায়ামের সময় ক্যালোরি খরচ নির্ধারণ করুন।
                     স্টেপ ট্র্যাকার: প্রতিদিনের পদক্ষেপ হিসেব করুন।</p>
                 </div>
             </div>
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]">দীর্ঘস্থায়ী ব্যাটারি লাইফ</h4>
-                <p class="pt-5 pb-16">একবার চার্জে ৭+ দিন ব্যবহারের সুবিধা।
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >দীর্ঘস্থায়ী ব্যাটারি লাইফ</h4>
+                <p class="pt-5 group-hover:text-white" >একবার চার্জে ৭+ দিন ব্যবহারের সুবিধা।
                     দ্রুত চার্জিং প্রযুক্তি।</p>
                 </div>
             </div>
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]">স্মার্ট নোটিফিকেশন</h4>
-                <p class="pt-5 pb-10">কল, মেসেজ, এবং অ্যাপ নোটিফিকেশন সরাসরি আপনার হাতে।
+            <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
+                <div class="p-5  ">
+                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >স্মার্ট নোটিফিকেশন</h4>
+                <p class="pt-5 group-hover:text-white" >কল, মেসেজ, এবং অ্যাপ নোটিফিকেশন সরাসরি আপনার হাতে।
                     গুরুত্বপূর্ণ আপডেট কখনোই মিস করবেন না।</p>
                 </div>
             </div>
-            <div class="  border-[2px] border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px]">
-                <div class="p-5">
-                    <h4 class="text-[#1B4B36] font-bold text-[18px]">মিউজিক এবং ক্যামেরা
-                    নিয়ন্ত্রণ</h4>
-                <p class="pt-5">মিউজিক চালানো বা ক্যামেরা ক্লিক করুন আপনার স্মার্টওয়াচ থেকে।
-                    সহজ এবং সাবলীল ব্যবহারের সুবিধা।</p>
-                </div>
-            </div>
         </div>
+
+        <button class="flex lg:w-1/3 lg:h-16 md:mt-8 mt-8 lg:justify-center  bg-[#1B4B36] h-auto w-60 md:w-72 md:h-14 justify-center  rounded-full mx-auto" >
+                    <p class="text-[17px] md:text-center md:p-4  lg:text-[28px] lg:text-center lg:font-bold text-[#EBFF3D]" >অর্ডার করতে ক্লিক করুন</p>
+                    <img class="w-7 h-7 md:mt-4 ml-1  lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector.png" alt="" srcset="">
+                </button>
        
 
       </section>
-      <section class="lg:p-32">
-        <p class="text-center text-[13px]  font-bold m-5 lg:text-[25px]">আমাদের পণ্য নিয়ে গ্রাহকদের অভিজ্ঞতা</p>
+      <section class="lg:p-32 md:p-16">
+        <p class="text-center text-[13px] md:text-[20px]  font-bold m-5 lg:text-[25px]">আমাদের পণ্য নিয়ে গ্রাহকদের অভিজ্ঞতা</p>
 
-        <div class="grid grid-cols-1 gap-1 lg:grid-cols-2 pr-20 pl-20 pt-10 ">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-1 md:gap-3 lg:grid-cols-2 pr-20 pl-20 pt-10 ">
             <div class="bg-[#1B4B36] rounded-md ">
                 <h4 class="text-white pt-3 pl-5 lg:text-[30px] lg:font-bold">সন্তুষ্ট গ্রাহক</h4>
                 <h5 class="text-right pr-5 text-[30px] text-[600] font-bold text-[#EBFF3D] lg:text-[40px]">৩,০০০+</h5>
@@ -115,28 +120,32 @@
          
      </button> -->
 
-     <button class="flex lg:w-1/3 lg:h-14 lg:flex lg:justify-center lg:item-center mt-10  bg-[#EBFF3D] h-auto w-60 justify-center justify-evenly  rounded-full mx-auto" >
-                    <p class="text-[17px] lg:text-[20px] lg:text-center lg:font-bold text-[#1B4B36]" >অর্ডার করতে ক্লিক করুন</p>
-                    <img class="w-7 h-7 lg:w-10 lg:h-10 p-1" src="/assets/Images/Vector2.png" alt="" srcset="">
+     <button class="flex lg:w-1/3 lg:h-14 lg:flex lg:justify-center md:h-14 lg:item-center mt-10 mb-6  bg-[#EBFF3D] h-auto w-60 justify-center   rounded-full mx-auto" >
+                    <p class="text-[17px] lg:text-[20px] md:p-2  lg:text-center lg:font-bold text-[#1B4B36]" >অর্ডার করতে ক্লিক করুন</p>
+                    <img class="w-7 h-7 lg:w-10 lg:h-10 p-1 md:ml-1" src="/assets/Images/Vector2.png" alt="" srcset="">
                 </button>
 
                 
       </section>
-      <footer class="flex items-center justify-center lg:justify-evenly flex-col bg-black lg:bg-black p-5">
-  <div class="content grid grid-cols-1 lg:flex  lg:justify-evenly gap-5">
+      <footer class="flex items-center justify-center h-16 lg:justify-evenly flex-col bg-[#0C3200] lg:bg-[#0C3200] p-5">
+  <div class="content grid grid-cols-1 lg:flex lg:w-full  lg:justify-evenly gap-5">
     <div class="number text-center lg:text-left">
       <p class="text-white">+880 123 456 790</p>
     </div>
     <div class="logo text-center lg:text-left">
-      <img class="w-14" src="/assets/Images/Group 427322488.png" alt="Logo" srcset="">
+      <img class="w-20" src="/assets/Images/Group 427322488.png" alt="Logo" srcset="">
     </div>
     <div class="last-content text-center lg:text-left">
       <img class="w-24" src="/assets/Images/Group 427322604.png" alt="" srcset="">
     </div>
     
   </div>
-  <p class="text-white text-center">"© 2024 All Rights Reserved by BDFunnelBuilder. Unauthorized use prohibited."</p>
+ 
 </footer>
+<section class="bg-[#0A2900] h-full">
+    <p class="text-white text-sm p-12 lg:text-sm text-center 
+]">"© 2024 All Rights Reserved by BDFunnelBuilder. Unauthorized use prohibited."</p>
+</section>
 
 
 
