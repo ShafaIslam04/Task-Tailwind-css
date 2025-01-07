@@ -54,7 +54,7 @@
             </div>
             <div class=" group  border-[2px]  border-[#1B4B36] rounded-tl-[35px] rounded-br-[35px] lg:transition ease-in-out delay-200  hover:bg-[#1B4B36] lg:group-hover:text-white hover:group-text-white">
                 <div class="p-5  ">
-                    <h4 class="lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >ফিটনেস ট্র্যাকিং</h4>
+                    <h4 class="   lg:group-hover:text-[#EBFF3D] group-hover:text-[#EBFF3D] text-[#1B4B36] font-bold text-[18px]" >ফিটনেস ট্র্যাকিং</h4>
                 <p class="pt-5 group-hover:text-white" >স্পোর্টস মোড: বিভিন্ন ধরনের স্পোর্টস অ্যাক্টিভিটির জন্য ১০+ মোড।
                     ক্যালোরি বার্ন কাউন্টার: আপনার ব্যায়ামের সময় ক্যালোরি খরচ নির্ধারণ করুন।
                     স্টেপ ট্র্যাকার: প্রতিদিনের পদক্ষেপ হিসেব করুন।</p>
